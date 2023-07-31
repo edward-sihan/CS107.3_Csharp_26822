@@ -1,0 +1,15 @@
+/Users/sihanedward/Projects/project9/project9/bin/Debug/net6.0/project9
+/Users/sihanedward/Projects/project9/project9/bin/Debug/net6.0/project9.deps.json
+/Users/sihanedward/Projects/project9/project9/bin/Debug/net6.0/project9.runtimeconfig.json
+/Users/sihanedward/Projects/project9/project9/bin/Debug/net6.0/project9.dll
+/Users/sihanedward/Projects/project9/project9/bin/Debug/net6.0/project9.pdb
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/project9.csproj.AssemblyReference.cache
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/project9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/project9.AssemblyInfoInputs.cache
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/project9.AssemblyInfo.cs
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/project9.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/project9.dll
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/refint/project9.dll
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/project9.pdb
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/project9.genruntimeconfig.cache
+/Users/sihanedward/Projects/project9/project9/obj/Debug/net6.0/ref/project9.dll

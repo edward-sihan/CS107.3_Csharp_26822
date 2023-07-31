@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{06081BEB-02EB-404E-BCAA-D8BB905F4A53}|Default">
+  <MonoDevelop.Ide.ItemProperties.project1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="project1/Program.cs">
+    <Files>
+      <File FileName="project1/Program.cs" Line="1" Column="1" />
+      <File FileName="project1/Staticvoid.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="project1" expanded="True">
+            <Node name="project1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

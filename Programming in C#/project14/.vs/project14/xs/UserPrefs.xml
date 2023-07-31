@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F32B0135-1620-488C-8527-563B194385B8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="project14/calculate.cs">
+    <Files>
+      <File FileName="project14/Program.cs" Line="12" Column="28" />
+      <File FileName="project14/calculate.cs" Line="12" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="project14" expanded="True">
+            <Node name="project14" expanded="True">
+              <Node name="calculate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.project14 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

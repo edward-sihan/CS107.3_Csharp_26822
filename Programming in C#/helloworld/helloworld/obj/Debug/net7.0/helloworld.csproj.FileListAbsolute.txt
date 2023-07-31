@@ -1,0 +1,15 @@
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/bin/Debug/net7.0/helloworld
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/bin/Debug/net7.0/helloworld.deps.json
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/bin/Debug/net7.0/helloworld.runtimeconfig.json
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/bin/Debug/net7.0/helloworld.dll
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/bin/Debug/net7.0/helloworld.pdb
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/helloworld.csproj.AssemblyReference.cache
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfoInputs.cache
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfo.cs
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/helloworld.dll
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/refint/helloworld.dll
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/helloworld.pdb
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/helloworld.genruntimeconfig.cache
+/Users/sihanedward/Desktop/Programming in C#/helloworld/helloworld/obj/Debug/net7.0/ref/helloworld.dll

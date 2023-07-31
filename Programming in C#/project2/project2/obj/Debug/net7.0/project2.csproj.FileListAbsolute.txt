@@ -1,0 +1,15 @@
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/bin/Debug/net7.0/project2
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/bin/Debug/net7.0/project2.deps.json
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/bin/Debug/net7.0/project2.runtimeconfig.json
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/bin/Debug/net7.0/project2.dll
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/bin/Debug/net7.0/project2.pdb
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/project2.csproj.AssemblyReference.cache
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/project2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/project2.AssemblyInfoInputs.cache
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/project2.AssemblyInfo.cs
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/project2.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/project2.dll
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/refint/project2.dll
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/project2.pdb
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/project2.genruntimeconfig.cache
+/Users/sihanedward/Desktop/Programming in C#/project2/project2/obj/Debug/net7.0/ref/project2.dll

@@ -1,0 +1,15 @@
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/bin/Debug/net6.0/project19
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/bin/Debug/net6.0/project19.deps.json
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/bin/Debug/net6.0/project19.runtimeconfig.json
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/bin/Debug/net6.0/project19.dll
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/bin/Debug/net6.0/project19.pdb
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/project19.csproj.AssemblyReference.cache
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/project19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/project19.AssemblyInfoInputs.cache
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/project19.AssemblyInfo.cs
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/project19.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/project19.dll
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/refint/project19.dll
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/project19.pdb
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/project19.genruntimeconfig.cache
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project19/project19/obj/Debug/net6.0/ref/project19.dll

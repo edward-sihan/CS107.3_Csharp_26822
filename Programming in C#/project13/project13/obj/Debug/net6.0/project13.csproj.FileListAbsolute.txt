@@ -1,0 +1,30 @@
+/Users/sihanedward/Projects/project13/project13/bin/Debug/net6.0/project13
+/Users/sihanedward/Projects/project13/project13/bin/Debug/net6.0/project13.deps.json
+/Users/sihanedward/Projects/project13/project13/bin/Debug/net6.0/project13.runtimeconfig.json
+/Users/sihanedward/Projects/project13/project13/bin/Debug/net6.0/project13.dll
+/Users/sihanedward/Projects/project13/project13/bin/Debug/net6.0/project13.pdb
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/project13.csproj.AssemblyReference.cache
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/project13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/project13.AssemblyInfoInputs.cache
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/project13.AssemblyInfo.cs
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/project13.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/project13.dll
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/refint/project13.dll
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/project13.pdb
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/project13.genruntimeconfig.cache
+/Users/sihanedward/Projects/project13/project13/obj/Debug/net6.0/ref/project13.dll
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/bin/Debug/net6.0/project13
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/bin/Debug/net6.0/project13.deps.json
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/bin/Debug/net6.0/project13.runtimeconfig.json
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/bin/Debug/net6.0/project13.dll
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/bin/Debug/net6.0/project13.pdb
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/project13.csproj.AssemblyReference.cache
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/project13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/project13.AssemblyInfoInputs.cache
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/project13.AssemblyInfo.cs
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/project13.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/project13.dll
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/refint/project13.dll
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/project13.pdb
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/project13.genruntimeconfig.cache
+/Users/sihanedward/Desktop/NSBM/BSc(hons) Computer Science/First year/Second Semester /Object Oriented programming with C#/Programming in C#/project13/project13/obj/Debug/net6.0/ref/project13.dll

@@ -1,0 +1,15 @@
+/Users/sihanedward/Projects/project11/project11/bin/Debug/net6.0/project11
+/Users/sihanedward/Projects/project11/project11/bin/Debug/net6.0/project11.deps.json
+/Users/sihanedward/Projects/project11/project11/bin/Debug/net6.0/project11.runtimeconfig.json
+/Users/sihanedward/Projects/project11/project11/bin/Debug/net6.0/project11.dll
+/Users/sihanedward/Projects/project11/project11/bin/Debug/net6.0/project11.pdb
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/project11.csproj.AssemblyReference.cache
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/project11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/project11.AssemblyInfoInputs.cache
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/project11.AssemblyInfo.cs
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/project11.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/project11.dll
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/refint/project11.dll
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/project11.pdb
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/project11.genruntimeconfig.cache
+/Users/sihanedward/Projects/project11/project11/obj/Debug/net6.0/ref/project11.dll

@@ -1,0 +1,15 @@
+/Users/sihanedward/Projects/project8/project8/bin/Debug/net6.0/project8
+/Users/sihanedward/Projects/project8/project8/bin/Debug/net6.0/project8.deps.json
+/Users/sihanedward/Projects/project8/project8/bin/Debug/net6.0/project8.runtimeconfig.json
+/Users/sihanedward/Projects/project8/project8/bin/Debug/net6.0/project8.dll
+/Users/sihanedward/Projects/project8/project8/bin/Debug/net6.0/project8.pdb
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/project8.csproj.AssemblyReference.cache
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/project8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/project8.AssemblyInfoInputs.cache
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/project8.AssemblyInfo.cs
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/project8.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/project8.dll
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/refint/project8.dll
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/project8.pdb
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/project8.genruntimeconfig.cache
+/Users/sihanedward/Projects/project8/project8/obj/Debug/net6.0/ref/project8.dll

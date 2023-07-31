@@ -1,0 +1,15 @@
+/Users/sihanedward/Projects/project7/project7/bin/Debug/net6.0/project7
+/Users/sihanedward/Projects/project7/project7/bin/Debug/net6.0/project7.deps.json
+/Users/sihanedward/Projects/project7/project7/bin/Debug/net6.0/project7.runtimeconfig.json
+/Users/sihanedward/Projects/project7/project7/bin/Debug/net6.0/project7.dll
+/Users/sihanedward/Projects/project7/project7/bin/Debug/net6.0/project7.pdb
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/project7.csproj.AssemblyReference.cache
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/project7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/project7.AssemblyInfoInputs.cache
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/project7.AssemblyInfo.cs
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/project7.csproj.CoreCompileInputs.cache
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/project7.dll
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/refint/project7.dll
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/project7.pdb
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/project7.genruntimeconfig.cache
+/Users/sihanedward/Projects/project7/project7/obj/Debug/net6.0/ref/project7.dll

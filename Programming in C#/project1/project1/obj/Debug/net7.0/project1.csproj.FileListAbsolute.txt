@@ -1,0 +1,5 @@
+/Users/sihanedward/Projects/project1/project1/obj/Debug/net7.0/project1.csproj.AssemblyReference.cache
+/Users/sihanedward/Projects/project1/project1/obj/Debug/net7.0/project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sihanedward/Projects/project1/project1/obj/Debug/net7.0/project1.AssemblyInfoInputs.cache
+/Users/sihanedward/Projects/project1/project1/obj/Debug/net7.0/project1.AssemblyInfo.cs
+/Users/sihanedward/Projects/project1/project1/obj/Debug/net7.0/project1.csproj.CoreCompileInputs.cache
